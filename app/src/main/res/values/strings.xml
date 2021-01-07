@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Weather</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="Weather_api">d0b941339d6f075686460c7fe0912041</string>
+    <string name="Seacrch_hint">City Name</string>
+</resources>
