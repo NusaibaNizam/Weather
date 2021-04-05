@@ -1,2 +1,2 @@
 # Weather
-![preview](weather.gif)
+<img src="weather.gif" height="450"/>
